@@ -15,8 +15,8 @@ def main():
     print('Hello World')
 
 if __name__ == "__main__":
-    train_size = 6000
-    test_size = 8000
+    train_size = 8000
+    test_size = 6000
     epochs = 50
 
     # print('Normal normal')
